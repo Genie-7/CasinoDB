@@ -1,0 +1,1 @@
+Create operations to add and update members, games, dealers records
